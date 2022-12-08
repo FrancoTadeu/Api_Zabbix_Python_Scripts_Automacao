@@ -1,0 +1,6 @@
+progressbar==2.5
+python-dotenv==0.21.0
+pyzabbix==1.2.1
+urllib3=>1.26.13
+requests
+pyparsing
